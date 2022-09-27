@@ -24,6 +24,6 @@ pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geo
 
 Solved exercises are in the `solutions/` folder.
 
-Partially filled scripts for each exercise are in the `workshop/` where you can fill in the missing code.
+Partially filled scripts for each exercise are in the `exercises/` where you can fill in the missing code.
 
-**Note**: To re-use code across exercises we will rely on python imports so make sure that you `cd` into the `workshop` directory while you work to make importing easy.
+**Note**: To re-use code across exercises we will rely on python imports so make sure that you `cd` into the `exercises/` or `exercises/` directory while you work to make importing easy.
