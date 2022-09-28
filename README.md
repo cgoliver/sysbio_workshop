@@ -6,6 +6,8 @@ Welcome to the SysBio Graph Analysis workshop!
 
 ## Setup and Installations
 
+Download [data here](https://mega.nz/file/JXZ1GCTI#TJ7gZpgKpxT_GRHAz8riwtd8IZvaFhYjdIHImlqRoTI)
+
 To follow along in this workshop please follow these steps:
 
 ```
