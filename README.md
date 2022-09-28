@@ -10,8 +10,8 @@ To follow along in this workshop please follow these steps:
 
 ```
 python3 -m venv .venv
-pip3 install -r requirements.txt
 source .venv/bin/activate
+pip3 install -r requirements.txt
 ```
 
 Go to [this](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html#quick-start) link and select the download that matches your computer's specs.
