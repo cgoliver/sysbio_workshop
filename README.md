@@ -2,6 +2,8 @@
 
 Welcome to the SysBio Graph Analysis workshop!
 
+[slides](https://docs.google.com/presentation/d/1SFsJAx5wKGWFRqPclAezGJSOsRRjeGgHQtQxOw1ixec/edit?usp=sharing)
+
 ## Setup and Installations
 
 To follow along in this workshop please follow these steps:
@@ -27,3 +29,4 @@ Solved exercises are in the `solutions/` folder.
 Partially filled scripts for each exercise are in the `exercises/` where you can fill in the missing code.
 
 **Note**: To re-use code across exercises we will rely on python imports so make sure that you `cd` into the `exercises/` or `exercises/` directory while you work to make importing easy.
+
